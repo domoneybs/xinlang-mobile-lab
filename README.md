@@ -1,2 +1,14 @@
 # xinlang-mobile-lab
-HTML page archive and documentation
+
+自动发布文件目录
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
